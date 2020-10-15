@@ -1,0 +1,47 @@
+body {
+  margin: auto;
+  background-color: #2b2b2b;
+}
+
+.rubrik {
+  width: 100vw !important;
+  padding: 20px;
+  background: black !important;
+  line-height: 1px;
+}
+
+.navigation {
+  font-family: monospace;
+  color: white;
+  padding-right: 5px;
+}
+
+#rubrik {
+  color: orange;
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+}
+
+#mor {
+  width: 80%;
+  margin: auto;
+}
+
+#underrubrik {
+  font-family: 'Caveat', cursive;
+  color: white;
+  font-size: 30px;
+}
+
+#cork1 {
+  width: 500px;
+  max-width: 1000px;
+  padding: 20px;
+}
+
+#text1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  width: 40%;
+  color: white;
+}
